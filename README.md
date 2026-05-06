@@ -157,6 +157,19 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayng"></div>
+
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
+| `v2rayNG_2.0.18_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_universal.apk) |
+
+---
+
 <div id="hidden-node--masterdnsvpn-androidclient"></div>
 
 ### Hidden-Node--MasterDnsVPN-AndroidClient
@@ -178,6 +191,18 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `MasterDnsVPN-GG-1.0.9-universal.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-universal.apk) |
+
+---
+
+<div id="deltachat--deltachat-android"></div>
+
+### deltachat--deltachat-android
+
+🔗 [source](https://github.com/deltachat/deltachat-android) – [<code><small>v2.49.0</small></code>](https://github.com/deltachat/deltachat-android/releases/tag/v2.49.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `deltachat-gplay-release-2.49.0.apk` | 66.3 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/deltachat/deltachat-android/deltachat-gplay-release-2.49.0.apk) |
 
 ---
 
