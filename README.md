@@ -230,4 +230,16 @@ sha256sum FILE_NAME
 | `MasterDnsVPN_Client_Termux_ARM64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.tar.gz) |
 | `MasterDnsVPN_Client_Termux_ARMV7.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARMV7.tar.gz) |
 | `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+
+---
+
+<div id="themadorg--madmail"></div>
+
+### themadorg--madmail
+
+🔗 [source](https://github.com/themadorg/madmail) – [<code><small>v0.46.0</small></code>](https://github.com/themadorg/madmail/releases/tag/v0.46.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `madmail-linux-amd64.tar.gz` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/themadorg/madmail/madmail-linux-amd64.tar.gz) |
 <!-- RELEASES_END -->
