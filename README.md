@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="hidden-node--masterdnsvpn-androidclient"></div>
+
+### Hidden-Node--MasterDnsVPN-AndroidClient
+
+🔗 [source](https://github.com/Hidden-Node/MasterDnsVPN-AndroidClient) – [<code><small>v1.2.2</small></code>](https://github.com/Hidden-Node/MasterDnsVPN-AndroidClient/releases/tag/v1.2.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `masterdnsvpn-HN-1.2.2-universal-release.apk` | 27.4 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.2-universal-release.apk) |
+
+---
+
 <div id="revocgg--masterdnsvpn-androidgg"></div>
 
 ### RevocGG--MasterDnsVPN-AndroidGG
@@ -166,6 +178,19 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `MasterDnsVPN-GG-1.0.9-universal.apk` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/RevocGG/MasterDnsVPN-AndroidGG/MasterDnsVPN-GG-1.0.9-universal.apk) |
+
+---
+
+<div id="kamalalhagh--kevinnet-dns"></div>
+
+### kamalalhagh--kevinnet-dns
+
+🔗 [source](https://github.com/kamalalhagh/kevinnet-dns) – [<code><small>v3.1.7</small></code>](https://github.com/kamalalhagh/kevinnet-dns/releases/tag/v3.1.7)
+
+| File | Size | Download |
+|------|------|----------|
+| `KevinNet_Windows_ARM64.exe` | 21.4 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_ARM64.exe) |
+| `KevinNet_Windows_x64.exe` | 26.4 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_x64.exe) |
 
 ---
 
