@@ -206,6 +206,19 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="denuitt1--mhr-cfw-go"></div>
+
+### denuitt1--mhr-cfw-go
+
+🔗 [source](https://github.com/denuitt1/mhr-cfw-go) – [<code><small>v1.0.0</small></code>](https://github.com/denuitt1/mhr-cfw-go/releases/tag/v1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrcfw-cli-linux-arm64.zip` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/denuitt1/mhr-cfw-go/mhrcfw-cli-linux-arm64.zip) |
+| `mhrcfw-cli-windows-amd64.zip` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/HosNNX/LatestReleaseMirror/main/releases/denuitt1/mhr-cfw-go/mhrcfw-cli-windows-amd64.zip) |
+
+---
+
 <div id="kamalalhagh--kevinnet-dns"></div>
 
 ### kamalalhagh--kevinnet-dns
